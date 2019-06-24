@@ -20,17 +20,20 @@ Your team starts with 5 tokens. You can turn in a token to receive at most 5 min
 
 ## Challenges
 
-1. Image Carousel using photos of your favorite food.
-![Carousel Example](carousel.gif)
-Pop up - when you click on a name, text pops up with information
-![Popup Example](popup.gif)
-Flip card - show cards with people’s names on them, and then flips to show more information
-Use a canvas to draw a circle
-Use a canvas to create a game where you can move around
-Vertical Navbar on the side of the screen - at least 3 links
-Progress bar - increases by 1% each time you click a button
-Countdown timer until Y3 graduation
-A blue textbox with a green border and Comic sans font saying "Y2 is better than you"
+1. Image Carousel using photos of your favorite food. <br />
+![Carousel Example](carousel.gif)<br />
+2. A blue textbox with a green border and Comic sans font saying "Y2 is better than you"<br />
+3. Pop up - when you click on a name, text pops up with information<br />
+![Popup Example](popup.gif)<br />
+Flip card - show cards with people’s names on them, and then flips to show more information<br />
+![Popup Example](flipcard.gif)<br />
+Use a canvas to draw a circle<br />
+![Popup Example](canvascircle.png)<br />
+Use a canvas to create a game where you can move around<br />
+Vertical Navbar on the side of the screen - at least 3 links<br />
+Progress bar - increases by 1% each time you click a button<br />
+Countdown timer until your Y3 graduation<br />
+
 Display a list of names, but in a randomized order
 Search bar - can search for a name, and screen shows all matches
 Textbox that is either 200 pixels wide or 50% of the screen, whichever is bigger
