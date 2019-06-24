@@ -25,39 +25,45 @@ Your team starts with 5 tokens. You can turn in a token to receive at most 5 min
 2. A blue textbox with a green border and Comic sans font saying "Y2 is better than you"<br />
 3. Pop up - when you click on a name, text pops up with information<br />
 ![Popup Example](popup.gif)<br />
-Flip card - show cards with people’s names on them, and then flips to show more information<br />
-![Popup Example](flipcard.gif)<br />
-Use a canvas to draw a circle<br />
-![Popup Example](canvascircle.png)<br />
-Use a canvas to create a game where you can move around<br />
-Vertical Navbar on the side of the screen - at least 3 links<br />
-Progress bar - increases by 1% each time you click a button<br />
-Countdown timer until your Y3 graduation<br />
-
-Display a list of names, but in a randomized order
-Search bar - can search for a name, and screen shows all matches
-Textbox that is either 200 pixels wide or 50% of the screen, whichever is bigger
-File upload button
-Drop down list of several links
-Navbar where the buttons are all pictures
-Textbox that grows as you enter more text
-A link that goes to another part of the same page
-A page that automatically scrolls down slowly
-Elements that fade out as you scroll down
-Embed a youtube video
-Text that appears on top of an image
-50 pink rectangles
-Play sound
-A checkered background
-Items disappear when you click on them
-When hover over an image, text appears
-Drag and drop
-A box where user can draw
-A table of pictures and labels
-Background picture changes when you click a button
-A quiz - a form that when entered, will tell you whether or not you got the question right
-A timed page - after 2 seconds, something disappears
-Make it possible to translate your page into other languages
+4. Flip card - show cards with people’s names on them, and then flips to show more information<br />
+![Cardflip Example](cardflip.gif)<br />
+5. Use a canvas to draw a circle<br />
+![circle Example](canvascircle.png)<br />
+6. Use a canvas to create a game where you can move around<br />
+![circle Example](canvasArrowKeys.gif)<br />
+7. Vertical Navbar on the side of the screen - at least 3 links<br />
+![circle Example](verticalNavbar.png)<br />
+8. Progress bar - increases by 1% each time you click a button<br />
+![circle Example](progress.gif)<br />
+9. A page with 50 pink rectangles<br />
+10. Countdown timer until your Y3 graduation<br />
+![circle Example](countdown.gif)<br />
+11. Display a list of names, but in a randomized order <br />
+12. Search bar - a user can search for a name, and screen shows all matches<br />
+13. Textbox that is either 200 pixels wide or 50% of the screen, whichever is bigger<br />
+14. File upload button<br />
+15. Drop down list of several links<br />
+![circle Example](dropdown.gif)<br />
+16. Navbar where the buttons are all pictures<br />
+17. A link that goes to another part of the same page<br />
+18. A page that automatically scrolls down slowly<br />
+19. Elements that fade out as you scroll down<br />
+20. Embed a youtube video<br />
+21. A CSS animation that makes a picture grow and shrink.<br />
+22. Text that appears on top of an image<br />
+![circle Example](textOnImage.png)<br />
+23. A website that play sound<br />
+24. A weppage with a checkered background<br />
+25. Items disappear when you click on them<br />
+26. When hover over an image, text appears<br />
+27. A site with drag and drop elemtents<br />
+![circle Example](dragdrop.gif)<br />
+28. A box where user can draw<br />
+![circle Example](draw.gif)<br />
+29. A table of pictures and labels<br />
+30. Background picture changes when you click a button<br />
+31. A quiz - a form that when entered, will tell you whether or not you got the question right<br />
+32. A timed page - after 2 seconds, something disappears<br />
 
 
 
