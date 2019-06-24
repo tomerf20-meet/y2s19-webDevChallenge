@@ -29,8 +29,7 @@ Your team starts with 5 tokens. You can turn in a token to receive at most 5 min
 ![Cardflip Example](cardflip.gif)<br />
 5. Use a canvas to draw a circle<br />
 ![circle Example](canvascircle.png)<br />
-6. Use a canvas to create a game where you can move around<br />
-![circle Example](canvasArrowKeys.gif)<br />
+6. Clicking a button changes the color of the text.<br />
 7. Vertical Navbar on the side of the screen - at least 3 links<br />
 ![circle Example](verticalNavbar.png)<br />
 8. Progress bar - increases by 1% each time you click a button<br />
@@ -64,6 +63,7 @@ Your team starts with 5 tokens. You can turn in a token to receive at most 5 min
 30. Background picture changes when you click a button<br />
 31. A quiz - a form that when entered, will tell you whether or not you got the question right<br />
 32. A timed page - after 2 seconds, something disappears<br />
-
+33. Use a canvas to create a game where you can move around<br />
+![circle Example](canvasArrowKeys.gif)<br />
 
 
