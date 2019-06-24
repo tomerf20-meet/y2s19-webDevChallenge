@@ -14,15 +14,16 @@ git clone https://github.com/YOUR_GITHUB_USERNAME/y2s19-webDevChallenge.git
 ```
 
 ## Instructions
-Working in teams of 4, your mission is to complete as many of these challenges as possible in one hour. Some challenges are easier/harder, but they all count for 1 point. It might be a good idea to read through the list first and then decide how to split them up. For each challenge, you need to create an example (you can have separate examples for separate challenges) and then at the end, we will judge whether or not your example is acceptable.
+Working in teams of 4, your mission is to complete as many of these challenges as possible in one hour. Some challenges are easier or harder, but they all count for 1 point. It might be a good idea to read through the list first and then decide how to split them up. For each challenge, you need to create an example (you can have separate examples for separate challenges) and then at the end, the instructors will judge the examples and award points.
 
-Your team starts with 5 tokens. You can turn in a token to receive at most 5 minutes of help from an instructor (use the help queue to ask for help). This is all the help you can get, so use your tokens wisely.
+Your team starts with 5 tokens. You can turn in a token to receive at most 5 minutes of help from an instructor (use the help queue to ask for help). *This is all the help you can get, so use your tokens wisely.*
 
 ## Challenges
 
-Image Carousel using photos of your favorite food.
-	Examples for each
+1. Image Carousel using photos of your favorite food.
+![Carousel Example](carousel.gif)
 Pop up - when you click on a name, text pops up with information
+![Popup Example](popup.gif)
 Flip card - show cards with people’s names on them, and then flips to show more information
 Use a canvas to draw a circle
 Use a canvas to create a game where you can move around
