@@ -65,5 +65,6 @@ Your team starts with 5 tokens. You can turn in a token to receive at most 5 min
 32. A timed page - after 2 seconds, something disappears<br />
 33. Use a canvas to create a game where you can move around<br />
 ![circle Example](canvasArrowKeys.gif)<br />
+34. Use a CSS Template in order to quickly create a pretty site, but replace the example photos and text with your own.
 
 
