@@ -12,6 +12,7 @@ for this lab:
 cd ~/Desktop
 git clone https://github.com/YOUR_GITHUB_USERNAME/y2s19-webDevChallenge.git
 ```
+There is *no* starter code, but make sure to save all of your work in this file so it gets saved to Github.
 
 ## Instructions
 Working in teams of 4, your mission is to complete as many of these challenges as possible in one hour. Some challenges are easier or harder, but they all count for 1 point. It might be a good idea to read through the list first and then decide how to split them up. For each challenge, you need to create an example (you can have separate examples for separate challenges) and then at the end, the instructors will judge the examples and award points.
